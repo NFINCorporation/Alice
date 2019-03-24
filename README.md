@@ -24,7 +24,7 @@ Alice를 설치하기 위해서는 다음의 가이드를 참고하십시오. [�
 * Back-End 매뉴얼 : http://nfin.me/Docs/Alice-Back-End/
 
 ## License
-Alice 에 저작권은 NFIN Corporation 에 있습니다.
+Alice 의 저작권은 NFIN Corporation 에 있습니다.
 ```
 Alice SDK for C# Application
 
